@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./githubpo.png" alt="Simple Interest Calculator Banner" width="100%">
+</p>
 # 📊 Simple Interest Calculator by Widmar Alberto Gómez Pérez
 <a name="top"></a>
 [![OS](https://img.shields.io/badge/OS-linux%2C%20windows%2C%20macOS-0078D4)](https://docs.abblix.com/docs/technical-requirements)
