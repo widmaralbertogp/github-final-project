@@ -11,7 +11,6 @@
 [![GitHub release](https://img.shields.io/github/v/release/Abblix/Oidc.Server)](#)
 [![GitHub release date](https://img.shields.io/github/release-date/Abblix/Oidc.Server)](#)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Abblix/Oidc.Server)](#)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-available-brightgreen.svg?](#)
 
 # 📊 Simple Interest Calculator by Widmar Alberto Gómez Pérez
 
