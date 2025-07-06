@@ -37,7 +37,7 @@ You need to have Python installed (version 3.6 or higher recommended).
 
 python simple_interest_calculator.py
 
-### The Process
+## The Process
 
 You’ll be prompted to enter:
 
@@ -49,7 +49,7 @@ Time period (in years)
 
 The script will display the calculated simple interest and total amount.
 
-### 📂 Repository Structure
+## 📂 Repository Structure
 
 simple-interest-calculator/
 ├── simple_interest_calculator.py
@@ -58,13 +58,13 @@ simple-interest-calculator/
 ├── LICENSE
 └── README.md
 
-📜 License
+## 📜 License
 This project is licensed under the Apache License 2.0 – see the LICENSE file for details.
 
-🙌 Contributing
+## 🙌 Contributing
 We welcome contributions from developers of all experience levels. Please read our CONTRIBUTING.md and CODE_OF_CONDUCT.md before getting started.
 
-🌐 Community and Support
+## 🌐 Community and Support
 Issues and enhancements can be submitted via the Issues tab.
 
 Stay tuned for future tools as we expand our offerings for financial empowerment.
