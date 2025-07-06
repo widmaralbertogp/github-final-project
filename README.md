@@ -66,14 +66,14 @@ The script will display the calculated simple interest and total amount.
 ## 📂 Repository Structure
 
 <pre lang="markdown"> 
-  ```text simple-interest-calculator/ 
+  text simple-interest-calculator/ 
   ├── CODE_OF_CONDUCT.md
   ├── CONTRIBUTING.md
   ├── LICENSE
   ├── README.md
   ├── githubpo.png
   └── simple-interest.sh
-  ``` </pre>
+</pre>
 
 ## 📜 License
 This project is licensed under the Apache License 2.0 – see the LICENSE file for details.
