@@ -51,7 +51,14 @@ The script will display the calculated simple interest and total amount.
 
 ## 📂 Repository Structure
 
-<pre lang="markdown"> ```text simple-interest-calculator/ ├── simple_interest_calculator.py ├── CONTRIBUTING.md ├── CODE_OF_CONDUCT.md ├── LICENSE └── README.md ``` </pre>
+<pre lang="markdown"> 
+  ```text simple-interest-calculator/ 
+  ├── simple_interest_calculator.py 
+  ├── CONTRIBUTING.md 
+  ├── CODE_OF_CONDUCT.md 
+  ├── LICENSE 
+  └── README.md 
+  ``` </pre>
 
 ## 📜 License
 This project is licensed under the Apache License 2.0 – see the LICENSE file for details.
