@@ -1,5 +1,5 @@
 <a name="top"></a>
-[![Abblix OIDC Server](https://resources.abblix.com/imgs/jpg/abblix-oidc-server-github-banner.jpg)](https://www.abblix.com/abblix-oidc-server)
+[![Abblix OIDC Server](https://www.canva.com/design/DAGsXL9SpTM/vJ-vbKMaQQdkxsM1BVrzKQ/edit?utm_content=DAGsXL9SpTM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.abblix.com/abblix-oidc-server)
 [![OS](https://img.shields.io/badge/OS-linux%2C%20windows%2C%20macOS-0078D4)](https://docs.abblix.com/docs/technical-requirements)
 [![CPU](https://img.shields.io/badge/CPU-x86%2C%20x64%2C%20ARM%2C%20ARM64-FF8C00)](https://docs.abblix.com/docs/technical-requirements)
 [![security rating](https://sonarcloud.io/api/project_badges/measure?project=Abblix_Oidc.Server&metric=security_rating)](https://sonarcloud.io/summary/overall?id=Abblix_Oidc.Server)
