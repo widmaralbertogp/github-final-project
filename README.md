@@ -1,3 +1,4 @@
+# 📊 Simple Interest Calculator by Widmar Alberto Gómez Pérez
 <a name="top"></a>
 [![OS](https://img.shields.io/badge/OS-linux%2C%20windows%2C%20macOS-0078D4)](https://docs.abblix.com/docs/technical-requirements)
 [![CPU](https://img.shields.io/badge/CPU-x86%2C%20x64%2C%20ARM%2C%20ARM64-FF8C00)](https://docs.abblix.com/docs/technical-requirements)
@@ -8,8 +9,6 @@
 [![GitHub release](https://img.shields.io/github/v/release/Abblix/Oidc.Server)](#)
 [![GitHub release date](https://img.shields.io/github/release-date/Abblix/Oidc.Server)](#)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Abblix/Oidc.Server)](#)
-
-# 📊 Simple Interest Calculator by Widmar Alberto Gómez Pérez
 
 Welcome to the **Simple Interest Calculator**, a foundational tool developed by our microfinance startup to demonstrate basic financial calculations for underserved communities. This project represents our first step in transitioning from Subversion (SVN) to Git and GitHub, embracing open-source practices to empower developers and collaborators worldwide.
 
