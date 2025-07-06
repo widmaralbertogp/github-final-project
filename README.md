@@ -49,9 +49,8 @@ Time period (in years)
 
 The script will display the calculated simple interest and total amount.
 
-📂 Repository Structure
-Copiar
-Editar
+### 📂 Repository Structure
+
 simple-interest-calculator/
 ├── simple_interest_calculator.py
 ├── CONTRIBUTING.md
