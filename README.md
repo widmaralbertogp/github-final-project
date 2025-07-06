@@ -1,3 +1,17 @@
+<a name="top"></a>
+[![Abblix OIDC Server](https://resources.abblix.com/imgs/jpg/abblix-oidc-server-github-banner.jpg)](https://www.abblix.com/abblix-oidc-server)
+[![.NET](https://img.shields.io/badge/.NET-6.0%2C%207.0%2C%208.0%2C%209.0-512BD4)](https://docs.abblix.com/docs/technical-requirements)
+[![language](https://img.shields.io/badge/language-C%23-239120)](https://learn.microsoft.com/ru-ru/dotnet/csharp/tour-of-csharp/overview)
+[![OS](https://img.shields.io/badge/OS-linux%2C%20windows%2C%20macOS-0078D4)](https://docs.abblix.com/docs/technical-requirements)
+[![CPU](https://img.shields.io/badge/CPU-x86%2C%20x64%2C%20ARM%2C%20ARM64-FF8C00)](https://docs.abblix.com/docs/technical-requirements)
+[![security rating](https://sonarcloud.io/api/project_badges/measure?project=Abblix_Oidc.Server&metric=security_rating)](https://sonarcloud.io/summary/overall?id=Abblix_Oidc.Server)
+[![reliability rating](https://sonarcloud.io/api/project_badges/measure?project=Abblix_Oidc.Server&metric=reliability_rating)](https://sonarcloud.io/summary/overall?id=Abblix_Oidc.Server)
+[![maintainability rating](https://sonarcloud.io/api/project_badges/measure?project=Abblix_Oidc.Server&metric=sqale_rating)](https://sonarcloud.io/summary/overall?id=Abblix_Oidc.Server)
+[![CodeQL analysis](https://github.com/Abblix/Oidc.Server/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Abblix/Oidc.Server/security/code-scanning?query=is%3Aopen)
+[![GitHub release](https://img.shields.io/github/v/release/Abblix/Oidc.Server)](#)
+[![GitHub release date](https://img.shields.io/github/release-date/Abblix/Oidc.Server)](#)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Abblix/Oidc.Server)](#)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-available-brightgreen.svg?
 # 📊 Simple Interest Calculator by Widmar Alberto Gómez Pérez
 
 Welcome to the **Simple Interest Calculator**, a foundational tool developed by our microfinance startup to demonstrate basic financial calculations for underserved communities. This project represents our first step in transitioning from Subversion (SVN) to Git and GitHub, embracing open-source practices to empower developers and collaborators worldwide.
