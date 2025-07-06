@@ -86,6 +86,3 @@ Issues and enhancements can be submitted via the Issues tab.
 
 Stay tuned for future tools as we expand our offerings for financial empowerment.
 
-### Running the Script
-
-```bash
