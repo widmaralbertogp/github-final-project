@@ -1,4 +1,3 @@
-# github-final-project
 # 📊 Simple Interest Calculator by Widmar Alberto Gómez Pérez
 
 Welcome to the **Simple Interest Calculator**, a foundational tool developed by our microfinance startup to demonstrate basic financial calculations for underserved communities. This project represents our first step in transitioning from Subversion (SVN) to Git and GitHub, embracing open-source practices to empower developers and collaborators worldwide.
@@ -39,6 +38,7 @@ You need to have Python installed (version 3.6 or higher recommended).
 ### Running the Script
 
 ```bash
+
 python simple_interest_calculator.py
 
 You’ll be prompted to enter:
@@ -71,5 +71,3 @@ We welcome contributions from developers of all experience levels. Please read o
 Issues and enhancements can be submitted via the Issues tab.
 
 Stay tuned for future tools as we expand our offerings for financial empowerment.
-
-
