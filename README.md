@@ -67,11 +67,12 @@ The script will display the calculated simple interest and total amount.
 
 <pre lang="markdown"> 
   ```text simple-interest-calculator/ 
-  ├── simple_interest_calculator.py 
-  ├── CONTRIBUTING.md 
-  ├── CODE_OF_CONDUCT.md 
-  ├── LICENSE 
-  └── README.md 
+  ├── CODE_OF_CONDUCT.md
+  ├── CONTRIBUTING.md
+  ├── LICENSE
+  ├── README.md
+  ├── githubpo.png
+  └── simple-interest.sh
   ``` </pre>
 
 ## 📜 License
