@@ -35,11 +35,9 @@ For `p = 1000`, `t = 2` years, and `r = 5%` annually:
 
 You need to have Python installed (version 3.6 or higher recommended).
 
-### Running the Script
-
-```bash
-
 python simple_interest_calculator.py
+
+### The Process
 
 You’ll be prompted to enter:
 
@@ -71,3 +69,7 @@ We welcome contributions from developers of all experience levels. Please read o
 Issues and enhancements can be submitted via the Issues tab.
 
 Stay tuned for future tools as we expand our offerings for financial empowerment.
+
+### Running the Script
+
+```bash
