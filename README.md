@@ -40,3 +40,36 @@ You need to have Python installed (version 3.6 or higher recommended).
 
 ```bash
 python simple_interest_calculator.py
+
+You’ll be prompted to enter:
+
+Principal amount
+
+Interest rate (annual %)
+
+Time period (in years)
+
+The script will display the calculated simple interest and total amount.
+
+📂 Repository Structure
+Copiar
+Editar
+simple-interest-calculator/
+├── simple_interest_calculator.py
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+├── LICENSE
+└── README.md
+
+📜 License
+This project is licensed under the Apache License 2.0 – see the LICENSE file for details.
+
+🙌 Contributing
+We welcome contributions from developers of all experience levels. Please read our CONTRIBUTING.md and CODE_OF_CONDUCT.md before getting started.
+
+🌐 Community and Support
+Issues and enhancements can be submitted via the Issues tab.
+
+Stay tuned for future tools as we expand our offerings for financial empowerment.
+
+
