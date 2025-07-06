@@ -1,5 +1,5 @@
 # github-final-project
-# 📊 Simple Interest Calculator
+# 📊 Simple Interest Calculator by Widmar Alberto Gómez Pérez
 
 Welcome to the **Simple Interest Calculator**, a foundational tool developed by our microfinance startup to demonstrate basic financial calculations for underserved communities. This project represents our first step in transitioning from Subversion (SVN) to Git and GitHub, embracing open-source practices to empower developers and collaborators worldwide.
 
