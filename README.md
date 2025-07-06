@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./githubpo.png" alt="Simple Interest Calculator Banner" width="10%">
+  <img src="./githubpo.png" alt="Simple Interest Calculator Banner" width="40%">
 </p>
 
 # 📊 Simple Interest Calculator by Widmar Alberto Gómez Pérez
